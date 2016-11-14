@@ -3,7 +3,7 @@
 
 int main() {
 
-std::cout << "Just testing Git\n";
+std::cout << "Just testing Git";
 
 return true;
 
